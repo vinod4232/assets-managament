@@ -11,6 +11,7 @@ import (
 	"github.com/ava-labs/hypersdk/consts"
 )
 
+
 const (
 	// TODO: choose a human-readable part for your hyperchain
 	HRP = "hyperchain"
